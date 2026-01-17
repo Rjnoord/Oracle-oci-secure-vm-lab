@@ -25,3 +25,8 @@ This lab mirrors real enterprise cloud security workflows where systems must be 
 - SSH
 - OCI Security Lists
 - Networking & CIDR rules
+## Screenshots
+### OCI Compute Instance Running
+![OCI VM Running](screenshots/01-OCI-VM-Running.png)
+### Successful SSH Login
+![SSH Login](screenshots/02-ssh-login-success.png)
